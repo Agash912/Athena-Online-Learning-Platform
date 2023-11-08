@@ -18,7 +18,7 @@ To set up the Athena Edu platform on your local machine, follow these steps:
 After opening the project in Apache NetBeans, you can run the application within the IDE to start the digital education platform.
 
 ## Usage
-For detailed usage instructions and to understand the full capabilities of Athena Edu, please refer to the comprehensive guide available here. - `[View Detailed Report](Athena%20Edu.pdf)`
+For detailed usage instructions and to understand the full capabilities of Athena Edu, please refer to the comprehensive guide available here. - [View Detailed Report](Athena%20Edu.pdf)
 
 ### Demos
 Visual demonstrations and screenshots of the platform in action will be provided here. (You can include image links using the Markdown syntax: `![Alt text](/path/to/img.jpg)`)
