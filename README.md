@@ -39,7 +39,7 @@ For detailed usage instructions and to understand the full capabilities of Athen
 Visual demonstrations and screenshots of the platform are provided here - [View Detailed Report](Athena%20Edu.pdf)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Additional Notes
 - This project was developed using Apache NetBeans.
